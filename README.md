@@ -101,7 +101,7 @@ It’s not just about parking cars — it’s about parking the future.”
 
  🤝 Connect with Us
 📧 Email: parkzin.startup@gmail.com  
-👤 Founder: [Anudeep Reddy A](https://www.linkedin.com/in/annareddyanudeep)  
+👤 Founder: [RAMNIhal](www.linkedin.com/in/rvrnihal) 
 🌐 Website: [parkzin.vercel.app](https://parkzin.vercel.app)
 
 🏁 License
